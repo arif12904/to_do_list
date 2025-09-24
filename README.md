@@ -13,5 +13,5 @@ Aplikasi Flutter Membuat to-do list sederhana tugas 2 piranti bergerak
 ## Screenshot
 Tampilan aplikasi:
 
-![Screenshot_20250925_001930](https://github.com/user-attachments/assets/14038242-eff0-48c1-8bd4-67a4a1b94f97)
+<img src="https://github.com/user-attachments/assets/14038242-eff0-48c1-8b" width="300" />
 
